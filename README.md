@@ -2,7 +2,7 @@
 
 ## Description
 
-I creatred this PowerShell script to remove duplicate image and video files in a specified directory and its subdirectories. It identifies duplicates based on file names with " - Copy" and/or "(n)" suffixes, keeping the original file and deleting the duplicates.
+I created this PowerShell script to remove duplicate image and video files in a specified directory and its subdirectories. It identifies duplicates based on file names with " - Copy" and/or "(n)" suffixes, keeping the original file and deleting the duplicates.
 
 ## Features
 
